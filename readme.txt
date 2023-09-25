@@ -1,9 +1,10 @@
 Georgia Inst. of Tech.: Machine Learning
 Assignment #1: Supervised Learning
-2/15/21
 
 To run:
-1. Clone repos, install:
-	- sklearn, tqdm, pandas, torch (cpu version), seaborn, numpy, matplotlib, tensorflow, 
-2. Run the jupyter notebooks. Should work directly. Results may vary slightly from paper due
-to different random seeds and initializations.
+Required packages:
+	- sklearn, tqdm, pandas, torch (cpu version), seaborn, numpy, matplotlib, tensorflow
+
+
+
+Run the jupyter notebooks. 
